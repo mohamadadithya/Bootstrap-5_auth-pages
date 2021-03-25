@@ -1,0 +1,4 @@
+1. Login Page
+2. Register Page
+3. Forgot Password
+4. Email Verification
